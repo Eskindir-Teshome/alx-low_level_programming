@@ -1,4 +1,4 @@
-#include<stdio.d>
+#include<stdio.h>
 /**
  * main - Entry point
  * putchar with for loop-writing alphabet 2 ways to stdout

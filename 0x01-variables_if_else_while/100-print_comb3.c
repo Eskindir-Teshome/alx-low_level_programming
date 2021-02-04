@@ -10,7 +10,7 @@ int main(void)
 
   for (num = 1; num < 10; num++)
     {
-      for (num2 = 1; num2 < 10; num 2++)
+      for (num2 = 1; num2 < 10; num2++)
 	{
 	  if (num2 > num)
 	    {

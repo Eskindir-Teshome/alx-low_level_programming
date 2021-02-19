@@ -1,4 +1,4 @@
-#include HOLBERTON_H
+#ifndef HOLBERTON_H
 #define HOLBERTON_H "holberton.h"
 int _putchar(char c);
 char *_strchat(char *dest, char *src);

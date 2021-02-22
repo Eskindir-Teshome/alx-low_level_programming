@@ -18,7 +18,7 @@ return (s);
 }
 if (*s == c && c == NULL)
 return (s);
-if (*S == NULL)
+if (*s == NULL)
 break;
 }
 return (NULL);

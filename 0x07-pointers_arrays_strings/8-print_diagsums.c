@@ -25,7 +25,7 @@ sum = *(a + loc) + sum;
 if (c == (size - 1) - r)
 {
 loc = ((size * r) + c);
-sum1 = *(a + loc) + sum 1:
+sum1 = *(a + loc) + sum1:
 }
 }
 }

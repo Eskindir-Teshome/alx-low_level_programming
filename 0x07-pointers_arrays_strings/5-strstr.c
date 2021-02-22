@@ -28,7 +28,7 @@ return (&haystack[c - c2]);
 else
 }
 c++;
-c = (c-c2);
+c = (c - c2);
 c2 = 0;
 }
 }

@@ -1,5 +1,6 @@
 #include "holberton.h"
-#include <studio.h>
+#include <stdio.h>
+/*#define NULL 0*/
 /**
 * _put_recursion - function
 * @s: string in which to print
@@ -16,6 +17,6 @@ _putchar(10);
 else
 {
 _putchar(*s);
-_putchar_recursion(s + 1);
+_puts_recursion(s + 1);
 }
 }
